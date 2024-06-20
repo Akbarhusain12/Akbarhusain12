@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akbarhusain</h1>
-<h3 align="center">Transitioning into backend development, my journey encompasses the seamless integration of Node.js and Express.js with data-driven insights powered by MongoDB, MySQL, and Python for AI and ML applications</h3>
+<h3 align="center">Transitioning into backend development, my journey encompasses the seamless integration of Node.js and Express.js with data-driven insights powered by MongoDB and Python for AI and ML applications</h3>
 <image align="right" width="400" alt="coding" src="https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akbarhusain12&label=Profile%20views&color=0e75b6&style=flat" alt="akbarhusain12" /> </p>
