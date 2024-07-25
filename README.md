@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akbarhusain12&label=Profile%20views&color=0e75b6&style=flat" alt="akbarhusain12" /> </p>
 
-- 💬 Ask me about **Backend development**
-
 - 📫 How to reach me **akbarhusainkadiwala32@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Wys0Did4D2-Co7pGhT_RY2ZpyJXf940F/view](https://drive.google.com/file/d/1Wys0Did4D2-Co7pGhT_RY2ZpyJXf940F/view)
