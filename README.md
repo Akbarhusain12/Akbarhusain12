@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **akbarhusainkadiwala32@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Wys0Did4D2-Co7pGhT_RY2ZpyJXf940F/view]([https://drive.google.com/file/d/1Wys0Did4D2-Co7pGhT_RY2ZpyJXf940F/view](https://drive.google.com/file/d/1Wys0Did4D2-Co7pGhT_RY2ZpyJXf940F/view?usp=sharing))
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Wys0Did4D2-Co7pGhT_RY2ZpyJXf940F/view](https://drive.google.com/file/d/1Wys0Did4D2-Co7pGhT_RY2ZpyJXf940F/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
