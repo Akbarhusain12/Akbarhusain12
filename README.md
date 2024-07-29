@@ -2,10 +2,11 @@
 <h3 align="center">Passionate about using Python for machine learning and AI to create solutions.</h3>
 <image align="right" width="400" alt="coding" src="https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg">
 
-- 📫 How to reach me **akbarhusainkadiwala32@gmail.com**
+- 📫 How to reach me - **akbarhusainkadiwala32@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Wys0Did4D2-Co7pGhT_RY2ZpyJXf940F/view](https://drive.google.com/file/d/1Wys0Did4D2-Co7pGhT_RY2ZpyJXf940F/view?usp=sharing)
+- 📄 Know about my experiences - [https://drive.google.com/file/d/1Wys0Did4D2-Co7pGhT_RY2ZpyJXf940F/view](https://drive.google.com/file/d/1Wys0Did4D2-Co7pGhT_RY2ZpyJXf940F/view?usp=sharing)
 
+- Portfolio - https://akbarhusain12.github.io/portfolio/
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/akbar-kadiwala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akbarhusain kadiwala" height="30" width="40" /></a>
