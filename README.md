@@ -2,8 +2,6 @@
 <h3 align="center">Passionate about using Python for machine learning and AI to create solutions.</h3>
 <image align="right" width="400" alt="coding" src="https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akbarhusain12&label=Profile%20views&color=0e75b6&style=flat" alt="akbarhusain12" /> </p>
-
 - 📫 How to reach me **akbarhusainkadiwala32@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Wys0Did4D2-Co7pGhT_RY2ZpyJXf940F/view](https://drive.google.com/file/d/1Wys0Did4D2-Co7pGhT_RY2ZpyJXf940F/view?usp=sharing)
