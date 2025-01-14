@@ -7,11 +7,19 @@
 - 📄 Know about my experiences - [https://drive.google.com/file/d/1Wys0Did4D2-Co7pGhT_RY2ZpyJXf940F/view](https://drive.google.com/file/d/1Wys0Did4D2-Co7pGhT_RY2ZpyJXf940F/view?usp=sharing)
 
 - Portfolio - https://akbarhusain12.github.io/portfolio/
-  
-- HackerRank - https://www.hackerrank.com/profile/akbarhusainkadi1
-<h3 align="left">Connect with me:</h3>
+
+<h3 align="left">My Online Profiles:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/akbar-kadiwala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akbarhusain kadiwala" height="30" width="40" /></a>
+
+<a href="https://www.hackerrank.com/profile/akbarhusainkadi1" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" />
+</a>
+
+<a href="https://leetcode.com/u/Akbarhusain12/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" />
+</a>
+
 </p>
 
 # 💻 Tech Stack:
