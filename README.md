@@ -37,3 +37,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akbarhusain12&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=akbarhusain12&show_icons=true&locale=en" alt="GitHub Streak" />
 </p>
+
+---
+
+### 📈 My Monthly Contributions
+[![Akbarhusain's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=akbarhusain12&theme=react-dark&hide_border=true&custom_title=Monthly%20Contribution%20Graph&area=true&hide_monthly=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
