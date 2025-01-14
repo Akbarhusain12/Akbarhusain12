@@ -12,7 +12,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/akbar-kadiwala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akbarhusain kadiwala" height="30" width="40" /></a>
 
-<a href="https://www.hackerrank.com/profile/akbarhusainkadi1" target="blank">
+<a href="https://www.hackerrank.com/profile/akbar_husain_12" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" />
 </a>
 
