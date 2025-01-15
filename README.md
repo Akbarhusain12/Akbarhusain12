@@ -44,3 +44,8 @@
 [![Akbarhusain's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=akbarhusain12&theme=react-dark&hide_border=true&custom_title=Monthly%20Contribution%20Graph&area=true&hide_monthly=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
+
+### 🚀 Reach Out to Me
+Feel free to reach out to me for collaboration, discussions, or project ideas! I’m always open to learning and contributing. Let’s connect and create something amazing! 🌟
+
+---
