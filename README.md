@@ -40,8 +40,9 @@
 
 ---
 
-### 📈 My Monthly Contributions
-[![Akbarhusain's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=akbarhusain12&theme=react-dark&hide_border=true&custom_title=Monthly%20Contribution%20Graph&area=true&hide_monthly=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+### 📊 Contribution Graph
+[![Akbarhusain's GitHub Activity Graph](https://github-activity-graph.vercel.app/graph?username=akbarhusain12&theme=react-dark&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
 
 ---
 
