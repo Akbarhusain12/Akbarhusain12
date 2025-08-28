@@ -6,7 +6,7 @@
 
 ### 🌟 About Me
 - 📫 **How to reach me:** [akbarhusainkadiwala32@gmail.com](mailto:akbarhusainkadiwala32@gmail.com)
-- 📄 **Know about my experiences:** [View My Resume](https://drive.google.com/file/d/1Wys0Did4D2-Co7pGhT_RY2ZpyJXf940F/view?usp=sharing)
+- 📄 **Know about my experiences:** [View My Resume](https://drive.google.com/file/d/10iouejuYMexpPMmqhdyxM1O0GyrsYi9v/view?usp=sharing)
 - 🌐 **Portfolio:** [Visit My Portfolio](https://akbarhusain12.github.io/portfolio/)
 
 ---
