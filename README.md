@@ -13,21 +13,22 @@
 
 <h3 align="left">My Online Profiles:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/akbar-kadiwala" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akbarhusain kadiwala" height="30" width="40" />
-</a> 
-
-<a href="https://www.hackerrank.com/profile/akbar_husain_12" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" />
+<a href="https://linkedin.com/in/akbar-kadiwala" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" style="margin-right: 10px;" />
 </a>
 
-<a href="https://leetcode.com/u/Akbarhusain12/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" />
-</a> 
+<a href="https://www.hackerrank.com/profile/akbar_husain_12" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" style="margin-right: 10px;" />
+</a>
 
-<a href="https://www.kaggle.com/akbarhusain12" target="blank">
+<a href="https://leetcode.com/u/Akbarhusain12/" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" style="margin-right: 10px;" />
+</a>
+
+<a href="https://www.kaggle.com/akbarhusain12" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle" height="30" width="40" />
 </a>
+
 
 
 </p>
