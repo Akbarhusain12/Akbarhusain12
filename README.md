@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Akbarhusain</h1>
-<h3 align="center">Passionate about using Python for machine learning and AI to create solutions.</h3>
+<h3 align="center">Data Scientist with expertise in Python, SQL, Machine Learning, and Data Visualization. Experienced in predictive modeling,
+statistical analysis, and end-to-end ML deployment. Skilled in data cleaning, feature engineering, and exploratory data
+analysis (EDA). Strong academic background (MCA with 9.5+ CGPA) and hands-on project experience including house price
+prediction, customer churn prediction, and workflow automation. Seeking to apply analytical and problem-solving skills to
+deliver measurable business impact.</h3>
 <image align="right" width="400" alt="coding" src="https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg">
 
 ---
