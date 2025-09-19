@@ -11,7 +11,7 @@ deliver measurable business impact.</h3>
 ### 🌟 About Me
 - 📫 **How to reach me:** [akbarhusainkadiwala32@gmail.com](mailto:akbarhusainkadiwala32@gmail.com)
 - 📄 **Know about my experiences:** [View My Resume](https://drive.google.com/file/d/1aEcZv1qWxiQX7lw7cuc9JpKjy1Pl8Sv2/view?usp=sharing)
-- 🌐 **Portfolio:** [Visit My Portfolio](https://akbarhusain12.github.io/portfolio/)
+- 🌐 **Portfolio:** [Visit My Portfolio]((https://akbarhusain12.github.io/))
 
 ---
 
